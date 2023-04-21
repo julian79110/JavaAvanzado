@@ -18,3 +18,18 @@ Tambien tenemos un cambio con las propiedades de la contraseña cambiando el val
 antes de cerrar el body tenemos la etiqueta script para el javascript de bootstrap 5 y cerramos la etiqueta body y la etiqueta html.
   
 **Css**
+
+En este repositorio se encuentra una carpeta llamada "css" donde se encuentran los estilos de mi formulario.
+En esta carpeta solo se encuentra un archivo de estilos para el index llamado style.  
+  
+Para empezar se le da unas propiedades generales quitandole el margin y el padding que cada navegador trae por defecto. Luego le damos unos estilos al body empezando con un color de fondo usando rgb con un red de 240, green de 240 y blue de 240 teniendo por resultado un gris claro. luego cambiamos la fuente usando el estilo font-family en esta caso yo utilice bookman old style. y por ultimo modificamos el tamaño de la fuente con font-size de 18 px. 
+  
+luego coontinuamos con la clase style_form para darle estilo al formulario. Tiene el estilo de margin-top en un 5% esto para que se despegue un 5% de la margen del navegador. Luego un border para que se me agregue un contorno alrededor de mi formulario y un padding para que lo que esta dentro de la etiqueta form se me separe del la margen del conntenedor en este caso 20px.
+  
+use el estilo filter: drop shadow para darle una sombra al contenedor del formulario en la pocision x tengo 0px para que este alineado en la poscision y lo tengo con 5 px para que se me pocisione un poco por debajo de los inputs con un grosor de 4px y un color negro. 
+  
+Luego a la clase title le damos los siguientes propiedades: un font-seze para el tamaño de la letra en este caso de 45px, una fuente de Arial Black y un margin-left para dejarlo centrado. 
+  
+Al boton le ponemos la propiedad de margin-left al 85% para dejarlo al lado derecho del formulario y adicionalmente se le agrega un hover para cuando se le pase el raton por encima cambie el color de fondo y un transition para que sea mas suave y que se demore 0.5s en hacer el cambio.
+  
+Esto es esencialmente lo que contiene el repositiorio, **gracias por la atencion** 
