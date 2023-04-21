@@ -5,7 +5,8 @@
 
 **Html**
 
-En la carpeta de vista nos podremos encontrar con el archivo index el cual contiene la estructura basica de html 5, incluye el !doctype para indicarnos que el navegador debe leer html 5, luego continuamos con la etiqueta de html normal y con la etiqueta <head> donde indicamos la cabecera de la pagina en esta tengo incluido la etiqueta meta para que sea lo mas basico en responsive.  Luego tengo la etiqueta "title" para que me muestre en nombre en la pestaña del navegador. Respectivamente tengo los links para añadir bootstrap 5 y el link para vincular con el css, Finalmente cerramos la etiqueta head.
+-En la carpeta de vista nos podremos encontrar con el archivo index el cual contiene la estructura basica de html 5, incluye el !doctype para indicarnos que el navegador debe leer html 5.
+-Luego continuamos con la etiqueta de html normal y con la etiqueta <head> donde indicamos la cabecera de la pagina en esta tengo incluido la etiqueta meta para que sea lo mas basico en responsive.  Luego tengo la etiqueta "title" para que me muestre en nombre en la pestaña del navegador. Respectivamente tengo los links para añadir bootstrap 5 y el link para vincular con el css, Finalmente cerramos la etiqueta head.
   
 Ahora con la parte del body. Iniciamos con un div para que contenga todo lo que vamos usar en el body, lo dividimos en algunas etiquetas semanthic de las cuales usamos header, nav, section, footer y el formulario lo trabajamos en el section.  Inicio con la etiqueta h1 para el titulo y le pongo la clase para darle un parde estilos, luego con la etiqueta form indicamos que ahi va estar un formulario y el action para indicar como queremos que se comporte despues y el method para indicar como queremos que viaje la informacion. Luego doy un salto de linea con la etiqueta br.
   
